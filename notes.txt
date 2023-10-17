@@ -1,3 +1,7 @@
+GIT COMMANDS
 git add . (adicionar modificacoes ao "stage")
 git commit -am "mensagem" (associar mensagem as modificacoes/commit)
 git push origin main (envia o codigo do local para o repositorio remoto)
+
+LOCAL SERVER
+CTRL + C
